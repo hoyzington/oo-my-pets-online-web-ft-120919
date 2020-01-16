@@ -1,5 +1,6 @@
 class Cat
   
+<<<<<<< HEAD
   attr_accessor :mood, :owner
   attr_reader :name
   
@@ -16,4 +17,6 @@ class Cat
     @@all
   end
   
+=======
+>>>>>>> 58329c6d41e6f55e4a96f459c18cd50b741b2f68
 end

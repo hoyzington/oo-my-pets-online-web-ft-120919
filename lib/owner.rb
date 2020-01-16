@@ -1,5 +1,6 @@
 class Owner
   
+<<<<<<< HEAD
   attr_reader :name, :species
   
   @@all = []
@@ -66,4 +67,6 @@ class Owner
     end
   end
   
+=======
+>>>>>>> 58329c6d41e6f55e4a96f459c18cd50b741b2f68
 end
